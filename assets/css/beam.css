@@ -1,0 +1,48 @@
+.logo > a{
+  font-family: 'Comfortaa', cursive;
+  text-rendering: optimizeLegibility;
+  font-size: 2em;
+  text-decoration: none;
+}
+.mdl-button .material-icons{ vertical-align: middle !important; }
+.mdl-layout__header .mdl-layout__drawer-button { color: rgba(0,0,0,0.87) !important; }
+.text-dark { color: rgba(0,0,0,0.87) !important; }
+.form-error {
+  text-align: center;
+  font-size: 0.9em;
+  color: rgb(213,0,0) !important;
+}
+textarea {  resize: none !important; } 
+.dark.active {
+  color: white !important;
+  background-color: rgba(33,150,243 , 1);
+}
+.divider-vert {
+  margin-left: 8px;
+  margin-right: 8px;
+  height: 45%;
+  vertical-align: middle;
+  border: 1px solid rgba(0,0,0,0.87);
+}
+.dark.mdl-button:hover { background-color: rgba(33,150,243 ,0.4); }
+.mdl-card__supporting-text {
+  width: auto !important;
+  color: #666;
+}
+.form-error { color: rgb(213,0,0) !important; }
+.dark { color: #666 !important; }
+.mdl-card { height: 100%; min-height: 0px !important; }
+.getting-started { font-size: 1em; }
+.flat-alt { border: 1px solid; }
+.mdl-textfield__label { color: #666 ; }
+fieldset[disabled] .mdl-textfield .mdl-textfield__input, .mdl-textfield.is-disabled .mdl-textfield__input{ color: #666 !important; }
+.mdl-textfield__input { border-bottom: 1px solid #666 ; }
+.mdl-cell table {
+  margin: 0 0 0 0 !important;
+  border: 0px !important;
+  width: 100% !important;
+}
+a {
+  text-decoration: none !important;
+  text-rendering: optimizeLegibility; 
+}
